@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'BentonSansBlack';
+    src: url('BentonSansBlack.eot');
+    src: url('BentonSansBlack.eot') format('embedded-opentype'),
+         url('BentonSansBlack.woff2') format('woff2'),
+         url('BentonSansBlack.woff') format('woff'),
+         url('BentonSansBlack.ttf') format('truetype'),
+         url('BentonSansBlack.svg#BentonSansBlack') format('svg');
+}
+@font-face {
+    font-family: 'BentonSansBold';
+    src: url('BentonSansBold.eot');
+    src: url('BentonSansBold.eot') format('embedded-opentype'),
+         url('BentonSansBold.woff2') format('woff2'),
+         url('BentonSansBold.woff') format('woff'),
+         url('BentonSansBold.ttf') format('truetype'),
+         url('BentonSansBold.svg#BentonSansBold') format('svg');
+}
+@font-face {
+    font-family: 'BentonSansBook';
+    src: url('BentonSansBook.eot');
+    src: url('BentonSansBook.eot') format('embedded-opentype'),
+         url('BentonSansBook.woff2') format('woff2'),
+         url('BentonSansBook.woff') format('woff'),
+         url('BentonSansBook.ttf') format('truetype'),
+         url('BentonSansBook.svg#BentonSansBook') format('svg');
+}
+@font-face {
+    font-family: 'BentonSansMedium';
+    src: url('BentonSansMedium.eot');
+    src: url('BentonSansMedium.eot') format('embedded-opentype'),
+         url('BentonSansMedium.woff2') format('woff2'),
+         url('BentonSansMedium.woff') format('woff'),
+         url('BentonSansMedium.ttf') format('truetype'),
+         url('BentonSansMedium.svg#BentonSansMedium') format('svg');
+}
+@font-face {
+    font-family: 'BentonSansRegular';
+    src: url('BentonSansRegular.eot');
+    src: url('BentonSansRegular.eot') format('embedded-opentype'),
+         url('BentonSansRegular.woff2') format('woff2'),
+         url('BentonSansRegular.woff') format('woff'),
+         url('BentonSansRegular.ttf') format('truetype'),
+         url('BentonSansRegular.svg#BentonSansRegular') format('svg');
+}
