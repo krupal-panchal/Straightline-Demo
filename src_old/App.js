@@ -20,7 +20,11 @@ function App() {
           Learn React
         </a>
       </header>
-      <div className="demo"></div>
+      <div className="demo">
+        <h1>This is demo title!!</h1>
+        <p>This is demo content. We are going to do something excited.</p>
+        <a href="#">Click here</a>
+      </div>
     </div>
   );
 }
